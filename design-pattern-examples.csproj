@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MazeGame.SingletonTest</StartupObject>
+    <StartupObject>design_pattern_examples.CompositeTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,10 @@
     <Compile Include="Creational\MazeGame\MapSite.cs" />
     <Compile Include="Creational\MazeGame\MazeGame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structural\01_Adapter_Pluggable.cs" />
+    <Compile Include="Structural\01_Adapter.cs" />
+    <Compile Include="Structural\03_Composite.cs" />
+    <Compile Include="Structural\02_Bridge.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
