@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace design_pattern_examples
+namespace design_pattern_examples.bridge
 {
     class BridgeTest
     {

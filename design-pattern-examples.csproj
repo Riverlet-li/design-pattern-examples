@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>design_pattern_examples.CompositeTest</StartupObject>
+    <StartupObject>design_pattern_examples.facade.FacadeTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -58,6 +58,8 @@
     <Compile Include="Structural\01_Adapter.cs" />
     <Compile Include="Structural\03_Composite.cs" />
     <Compile Include="Structural\02_Bridge.cs" />
+    <Compile Include="Structural\04_Decorator.cs" />
+    <Compile Include="Structural\05_Facade.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
