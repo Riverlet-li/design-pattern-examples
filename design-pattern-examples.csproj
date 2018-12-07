@@ -60,6 +60,7 @@
     <Compile Include="Structural\02_Bridge.cs" />
     <Compile Include="Structural\04_Decorator.cs" />
     <Compile Include="Structural\05_Facade.cs" />
+    <Compile Include="Structural\06_Flyweight.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
